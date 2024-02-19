@@ -1,0 +1,406 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+    {
+      "name": "AIRism Katun T-Shirt Oversize Garis (Lengan Half)",
+      "slug": "E461914-000",
+      "description": "T-shirt Pria dari bahan 'AIRism' yang lembut dengan tampilan katun. Potongan yang leluasa dan lengan half untuk tampilan santai.",
+      "excerpt": "T-shirt Pria dari bahan 'AIRism'",
+      "price": 249.000,
+      "tags": ["T-Shirt", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461914/item/idgoods_31_461914.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461914/sub/idgoods_461914_sub3.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461914/sub/idgoods_461914_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461914/sub/goods_461914_sub1.jpg?width=750"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "name": "T-Shirt Oversize Garis Kerah Bulat Lengan 1/2",
+      "slug": "E465492-000",
+      "description": "T-shirt Pria dari bahan 100% katun dengan aksen pre-washed untuk kesan kasual.",
+      "excerpt": "T-shirt Oversized Pria ",
+      "price": 249.000,
+      "tags": ["T-Shirt", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465492/item/idgoods_69_465492.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465492/sub/goods_465492_sub23.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465492/sub/goods_465492_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465492/sub/idgoods_465492_sub7.jpg?width=750"
+      ],
+      "createdAt": "2024-01-22T13:15:24.887Z",
+      "updatedAt": "2024-01-25T18:19:54.047Z"
+    },
+    {
+      "name": "Kemeja Broadcloth Extra Fine Cotton Kotak Lengan Panjang",
+      "slug": "E467498-000",
+      "description": "Kemeja Pria dari bahan katun ultra-long yang lembut dengan tampilan kasual. Dapat dikenakan sendirinya atau sebagai outer layer.",
+      "excerpt": "Kemeja Katun Pria",
+      "price": 399.000,
+      "tags": ["Kemeja", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467498/item/idgoods_33_467498.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467498/sub/goods_467498_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467498/sub/idgoods_467498_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467498/sub/idgoods_467498_sub28.jpg?width=750"
+      ],
+      "createdAt": "2024-08-09T03:01:50.432Z",
+      "updatedAt": "2023-05-17T16:42:21.208Z"
+    },
+    {
+      "name": "Kemeja Extra Fine Cotton Broadcloth Motif Lengan Panjang",
+      "slug": "E453160-000",
+      "description": "Kemeja Pria dari bahan katun ultra-long yang halus dengan tampilan kasual. Cocok dikenakan sendirinya atau sebagai luaran.",
+      "excerpt": "Kemeja Pria ultra-long",
+      "price": 399.000,
+      "tags": ["Kemeja", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/453160/item/idgoods_68_453160.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453160/sub/goods_453160_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/453160/sub/idgoods_453160_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453160/sub/goods_453160_sub19.jpg?width=750"
+      ],
+      "createdAt": "2024-03-06T12:32:37.477Z",
+      "updatedAt": "2024-06-10T19:39:46.154Z"
+    },
+    {
+      "name": "Kemeja Luaran Jersey Denim Lengan Panjang",
+      "slug": "E467438-000",
+      "description": "Jaket kemeja Pria dengan tampilan workwear yang autentik. Fit rileks membuatnya dapat dikenakan berlapis.",
+      "excerpt": "Jaket kemeja Pria",
+      "price": 599.000,
+      "tags": ["Kemeja", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467438/item/idgoods_67_467438.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467438/sub/idgoods_467438_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467438/sub/goods_467438_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467438/sub/goods_467438_sub14.jpg?width=750"
+      ],
+      "createdAt": "2024-11-15T09:54:08.287Z",
+      "updatedAt": "2024-02-10T18:53:21.288Z"
+    },
+    {
+      "name": "Pullover Waffle Kerah Henley Lengan Panjang",
+      "slug": "E462055-000",
+      "description": "T-shirt pullover Pria dari bahan waffle lembut dengan kesan tebal dan berkontur. Kancing dapat dilepas untuk gaya layering.",
+      "excerpt": "T-shirt pullover Pria",
+      "price": 299.000,
+      "tags": ["T-Shirt", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/462055/item/idgoods_01_462055.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/462055/sub/idgoods_462055_sub3.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462055/sub/goods_462055_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462055/sub/goods_462055_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-01-27T18:25:27.802Z",
+      "updatedAt": "2022-12-27T20:46:38.431Z"
+    },
+    {
+      "name": "AIRism Kaos Polo Lengan Pendek (Kancing Full)",
+      "slug": "E461818-000",
+      "description": "Kaos polo Pria yang nyaman dan ringan. Desain modern yang cocok untuk dipakai ke kantor.",
+      "excerpt": "Kaos polo Pria",
+      "price": 299.000,
+      "tags": ["Polo", "Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461818/item/goods_09_461818.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461818/sub/goods_461818_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461818/sub/goods_461818_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461818/sub/idgoods_461818_sub28.jpg?width=750"
+      ],
+      "createdAt": "2023-01-27T13:37:17.354Z",
+      "updatedAt": "2023-09-09T13:43:34.455Z"
+    },
+    {
+      "name": "UT Tekken Lengan Pendek",
+      "slug": "E470743-000",
+      "description": "Menampilkan dua game pertarungan yang legendaris, kini hadir di UT. Jangan lewatkan kolaborasi impian ini.",
+      "excerpt": "T-shirt kolaborasi UT",
+      "price": 149.000,
+      "tags": ["T-Shirt","Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/470743/item/idgoods_00_470743.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/470743/sub/idgoods_470743_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470743/sub/goods_470743_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470743/sub/goods_470743_sub17.jpg?width=750"
+      ],
+      "createdAt": "2023-12-06T07:47:47.833Z",
+      "updatedAt": "2023-03-19T16:53:03.404Z"
+    },
+    {
+      "name": "Kaos Polo Dry Pique Tipping Lengan Pendek",
+      "slug": "E457905-000",
+      "description": "Kaos polo Pria dengan desain dan potongan yang cocok untuk berbagai outfit. Dua garis di bagian kerah menambahkan aksen stylish.",
+      "excerpt": "Kaos polo garis Pria",
+      "price": 299.000,
+      "tags": ["Polo","Man"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457905/item/goods_00_457905.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457905/sub/goods_457905_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457905/sub/idgoods_457905_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457905/sub/goods_457905_sub15.jpg?width=750"
+      ],
+      "createdAt": "2023-06-04T03:57:07.764Z",
+      "updatedAt": "2022-12-19T19:32:58.233Z"
+    },
+    {
+      "name": "T-Shirt Katun Lembut Garis Kelim Bulat Lengan 3/4",
+      "slug": "E467197-000",
+      "description": "T-shirt Wanita dengan bahan dan potongan yang terasa nyaman. Desain hem berbentuk round yang terlihat bagus dimasukkan ke dalam bawahan atau dikeluarkan.",
+      "excerpt": "T-shirt garis Wanita",
+      "price": 199.000,
+      "tags": ["T-Shirt","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467197/item/idgoods_12_467197.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467197/sub/idgoods_467197_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/467197/sub/idgoods_467197_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467197/sub/goods_467197_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-12-10T04:40:42.778Z",
+      "updatedAt": "2023-02-25T03:33:31.866Z"
+    },
+    {
+      "name": "T-Shirt Fleece Rajut Lembut Kerah Bulat Lengan Panjang",
+      "slug": "E461776-000",
+      "description": "T-shirt Wanita dari bahan fleece yang halus, hangat, dan ringan. Bahan fleece yang nyaman dengan tampilan rajut elegan.",
+      "excerpt": "T-shirt fleece Wanita ",
+      "price": 299.000,
+      "tags": ["T-Shirt","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461776/item/idgoods_32_461776.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461776/sub/goods_461776_sub13.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461776/sub/idgoods_461776_sub12.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461776/sub/idgoods_461776_sub1.jpg?width=750"
+      ],
+      "createdAt": "2024-09-17T22:16:36.054Z",
+      "updatedAt": "2024-04-26T16:40:49.008Z"
+    },
+    {
+      "name": "Gaun Katun Ringan Tanpa Lengan (Kotak)",
+      "slug": "E466046-000",
+      "description": "Gaun Wanita dari bahan 100% katun yang ringan dan nyaman. Siluet A-line yang bervolume.",
+      "excerpt": "Gaun katun Wanita",
+      "price": 599.000,
+      "tags": ["Dress","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/466046/item/idgoods_69_466046.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/466046/sub/idgoods_466046_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/466046/sub/idgoods_466046_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466046/sub/goods_466046_sub16.jpg?width=750"
+      ],
+      "createdAt": "2024-08-12T19:06:51.002Z",
+      "updatedAt": "2023-05-03T06:27:32.935Z"
+    },
+    {
+      "name": "Gaun Waffle Lengan Panjang",
+      "slug": "E468651-000",
+      "description": "Gaun Wanita bersiluet rileks dan leluasa. Cocok dikenakan sendirinya atau dipadukan dengan bawahan.",
+      "excerpt": "Gaun Waffle Wanita",
+      "price": 299.000,
+      "tags": ["Dress","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468651/item/idgoods_01_468651.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468651/sub/idgoods_468651_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/468651/sub/goods_468651_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/468651/sub/goods_468651_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-09-01T13:02:04.353Z",
+      "updatedAt": "2024-02-28T01:51:56.243Z"
+    },
+    {
+      "name": "Jeans Lebar Lurus",
+      "slug": "E465960-000",
+      "description": "Wide cut showcases the lightweight fabric. Designed to flatter the hips.",
+      "excerpt": "Wide cut Jeans",
+      "price": 699.000,
+      "tags": ["Pants","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465960/sub/goods_465960_sub14.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465960/sub/goods_465960_sub19.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465960/sub/goods_465960_sub20.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465960/sub/goods_465960_sub13.jpg?width=750"
+      ],
+      "createdAt": "2023-03-14T22:11:36.022Z",
+      "updatedAt": "2023-04-15T12:00:48.282Z"
+    },
+    {
+    "name": "Jeans Ankle Slim Stretch",
+    "slug": "E468844-000",
+    "description": "Celana jeans Wanita dengan ukuran sepanjang mata kaki dan potongan lurus di bawah lutut. Dibuat dari bahan denim stretch yang nyaman.",
+    "excerpt": "Celana Ankle Wanita",
+    "price": 599.000,
+    "tags": ["Pants","Women"],
+    "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468844/item/idgoods_63_468844.jpg?width=750",
+    "images": [
+      "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468844/sub/idgoods_468844_sub8.jpg?width=750",
+      "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/468844/sub/goods_468844_sub14.jpg?width=750",
+      "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/468844/sub/goods_468844_sub17.jpg?width=750"
+    ],
+      "createdAt": "2024-03-06T23:06:24.089Z",
+      "updatedAt": "2023-08-19T10:54:26.783Z"
+    },
+    {
+      "name": "Kamisol Bra Crop Tipe Seamless",
+      "slug": "E464430-000",
+      "description": "Dalaman Wanita dengan cup built-in yang terlihat indah. Desain tanpa jahitan memberikan fit nyaman. Produk ini tidak dapat dikembalikan.",
+      "excerpt": "Dalaman Kamisol Wanita",
+      "price": 299.000,
+      "tags": ["Bra", "Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464430/item/idgoods_70_464430.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464430/sub/idgoods_464430_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464430/sub/goods_464430_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464430/sub/goods_464430_sub17.jpg?width=750"
+      ],
+      "createdAt": "2024-10-28T17:53:45.585Z",
+      "updatedAt": "2023-09-26T07:41:24.606Z"
+    },
+    {
+      "name": "Bra Tanpa Kawat (Penyangga 3D)",
+      "slug": "E464333-000",
+      "description": "Bra Wanita yang kini terasa lebih halus. Desain terbaru yang memiliki empat hook. Produk ini tidak dapat dikembalikan.",
+      "excerpt": "Bra Wanita Tanpa Kawat",
+      "price": 199.000,
+      "tags": ["Bra","Women"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464333/item/goods_31_464333.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464333/sub/goods_464333_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464333/sub/goods_464333_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464333/sub/goods_464333_sub9.jpg?width=750"
+      ],
+      "createdAt": "2023-10-07T12:24:06.606Z",
+      "updatedAt": "2023-02-13T22:27:42.635Z"
+    },
+    {
+      "name": "GIRLS Jaket Fleece Lembut Lengan Panjang",
+      "slug": "E465890-000",
+      "description": "Jaket Anak dari bahan fleece dengan tekstur brushed yang halus dan nyaman. Kini dengan potongan terbaru agar mudah dilapiskan.",
+      "excerpt": "Jaket Fleece Anak",
+      "price": 199.000,
+      "tags": ["Jaket","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465890/item/idgoods_10_465890.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465890/sub/goods_465890_sub11.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465890/sub/idgoods_465890_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465890/sub/goods_465890_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-04-19T22:44:15.765Z",
+      "updatedAt": "2022-12-28T16:30:35.290Z"
+    },
+    {
+      "name": "KIDS AIRism Jaket Mesh Hoodie Proteksi Sinar UV Lengan Panjang",
+      "slug": "E465160-000",
+      "description": "Jaket hoodie Anak dari bahan 'AIRism' yang lembut, sejuk. Pakaian serbaguna dengan teknologi UV Protection (UPF50+) yang wajib dimiliki.",
+      "excerpt": "Jaket Hoodie Anak",
+      "price": 299.000,
+      "tags": ["Jaket","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465160/item/idgoods_60_465160.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465160/sub/goods_465160_sub11.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465160/sub/goods_465160_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465160/sub/idgoods_465160_sub9.jpg?width=750"
+      ],
+      "createdAt": "2024-10-02T19:17:53.883Z",
+      "updatedAt": "2023-11-18T10:18:24.971Z"
+    },
+    {
+      "name": "KIDS AIRism Katun T-Shirt Garis Kerah Bulat Lengan Pendek",
+      "slug": "E465137-000",
+      "description": "T-shirt Anak dari bahan 'AIRism' yang lembut dengan tampilan katun. Gaya uniseks basic dan serbaguna.",
+      "excerpt": "T-shirt Anak AIRism",
+      "price": 149.000,
+      "tags": ["T-Shirt","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465137/item/idgoods_09_465137.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465137/sub/goods_465137_sub13.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465137/sub/goods_465137_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465137/sub/idgoods_465137_sub7.jpg?width=750"
+      ],
+      "createdAt": "2024-07-21T07:02:11.939Z",
+      "updatedAt": "2024-10-29T22:56:29.469Z"
+    },
+    {
+      "name": "KIDS AIRism Katun T-Shirt Grafis Lengan Pendek (Raglan)",
+      "slug": "E465147-000",
+      "description": "T-shirt Anak dari bahan 'AIRism' yang lembut dengan tampilan katun. Desain lengan raglan dan siluet rileks.",
+      "excerpt": "T-shirt Anak Grafis",
+      "price": 149.000,
+      "tags": ["T-Shirt","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465147/item/idgoods_03_465147.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465147/sub/idgoods_465147_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465147/sub/goods_465147_sub17.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465147/sub/idgoods_465147_sub7.jpg?width=750"
+      ],
+      "createdAt": "2023-03-27T21:38:28.200Z",
+      "updatedAt": "2023-03-16T19:54:50.653Z"
+    },
+    {
+      "name": "KIDS Kemeja Katun Modal Kerah Terbuka Lengan Pendek",
+      "slug": "E465127-000",
+      "description": "Kemeja Anak dari bahan katun rayon yang lembut dan nyaman. Potongan rileks agar mudah dilapiskan.",
+      "excerpt": "Kemeja Anak Katun",
+      "price": 299.000,
+      "tags": ["Kemeja","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465127/item/idgoods_01_465127.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465127/sub/idgoods_465127_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465127/sub/idgoods_465127_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465127/sub/goods_465127_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-07-14T05:26:55.250Z",
+      "updatedAt": "2024-01-24T19:52:36.873Z"
+    },
+    {
+      "name": "KIDS Kaos Polo Dry Pique Lengan Pendek (Garis)",
+      "slug": "E465154-000",
+      "description": "Versatile, classic design and cut. Soft fabric with DRY technology for stay-fresh comfort.",
+      "excerpt": "Kaos Polo Versatile Anak",
+      "price": 199.000,
+      "tags": ["Polo","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465154/item/idgoods_30_465154.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465154/sub/idgoods_465154_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465154/sub/idgoods_465154_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465154/sub/goods_465154_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-10-27T01:52:04.401Z",
+      "updatedAt": "2024-07-30T08:14:14.695Z"
+    },
+    {
+      "name": "GIRLS Gaun Rayon Motif Bunga Lengan Pendek",
+      "slug": "E464073-000",
+      "description": "Gaun Anak dari bahan yang sejuk dengan potongan nyaman. Desain elastis di bagian leher untuk memudahkan mengganti pakaian.",
+      "excerpt": "Gaun Rayon Anak",
+      "price": 299.000,
+      "tags": ["Dress","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464073/item/idgoods_62_464073.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464073/sub/idgoods_464073_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464073/sub/goods_464073_sub14.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464073/sub/goods_464073_sub18.jpg?width=750"
+      ],
+      "createdAt": "2024-03-16T10:52:25.860Z",
+      "updatedAt": "2023-09-27T02:41:42.426Z"
+    },
+    {
+      "name": "KIDS Jeans Lembut Ultra Stretch",
+      "slug": "E454371-000",
+      "description": "Celana jeans Anak yang berbahan halus untuk kemudahan bergerak luar biasa. Desain klasik untuk memudahkan padu padan gaya.",
+      "excerpt": "Celana Jeans Stretch Anak",
+      "price": 299.000,
+      "tags": ["Pants","Anak"],
+      "thumbnail": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/454371/item/idgoods_09_454371.jpg?width=750",
+      "images": [
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/454371/sub/idgoods_454371_sub7.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/454371/sub/idgoods_454371_sub9.jpg?width=750",
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/454371/sub/goods_454371_sub14.jpg?width=750"
+      ],
+      "createdAt": "2023-09-28T09:46:33.668Z",
+      "updatedAt": "2023-01-23T11:38:43.982Z"
+    }
+  ]
+}
